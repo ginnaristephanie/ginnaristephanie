@@ -1,0 +1,124 @@
+
+<!-- saved from url=(0032)http://127.0.0.1:5500/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style>
+      h1 {
+        text-align: center;
+        color: blueviolet;
+      }
+
+      h2 {
+        text-align: center;
+        border-radius: 10px;
+        border: 1px solid blueviolet;
+        padding: 15px;
+      }
+
+      img {
+        border-radius: 10px;
+        width: 60%;
+      }
+
+      p {
+        font-size: 14px;
+        line-height: 1.5;
+      }
+
+      button {
+        width: 100%;
+        background: blueviolet;
+        color: white;
+        border: none;
+        padding: 15px;
+        font-size: 20px;
+        border-radius: 30px;
+        box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+        margin: 20px 0;
+      }
+
+      footer {
+        text-align: center;
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>
+      Stephanie Ginnari
+    </h1>
+    <h2>
+      Brazilian living in the Netherlands
+    </h2>
+    <img src="./index_files/0" alt="">
+    <p>
+      A little bit about myself:
+      I'm a brazilian girl who has been living in the Netherlands since 2017.
+      I graduated in Business Administration in 2017 and came to here right after finishing my graduation.
+      As I couldn't speak english I attended various courses in four schools and nowadays I do speak English and I'm learning Dutch :)
+
+      I found my passion for data in my previous work and I'm studying to become a Data Analyst/Business Intelligence Specialist. 
+      I'm currently learning Power BI, Python, SQL, HTML... 
+
+      I'm learning how to code as well and this is my very first webpage :)
+
+      Nice to meet you!
+      <br>
+      <br>
+      <a href="https://en.wikipedia.org/wiki/Data_analysis">
+        Learn more about Data Analysis on Wikipedia
+      </a>
+    </p>
+    <button>
+      Go to my Linkedin by clicking on my name bellow
+      <a href="https://www.linkedin.com/in/stephanieginnari/"></a>
+    </button>
+    <footer>
+        Coded by 👩‍💻
+        <a href="https://www.linkedin.com/in/stephanieginnari">
+          Stephanie
+        </a>
+      </footer>
+  
+
+  <!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+
+
+</body></html>
