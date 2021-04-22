@@ -2,7 +2,7 @@
 
 ✨ My name is Stephanie Ginnari, I'm a brazilian Data Analyst living in the Netherlands.
 
-🌱 I’m currently learning Python for Data analysis, MYSQL, Power BI, Tableau and GitHub.
+🌱 Tools: Python for Data analysis, MYSQL, Power BI, Tableau and GitHub.
 
 📫 How to reach me: ginnariste@gmail.com 
 
