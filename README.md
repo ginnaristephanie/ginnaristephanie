@@ -1,10 +1,10 @@
 ### Hi everyone 👋
 
-✨ My name is Stephanie Ginnari, I'm a brazilian living in the Netherlands. I want to become a Data Analyst. ✨
+✨ My name is Stephanie Ginnari, I'm a brazilian Data Analyst living in the Netherlands.
 
-🌱 I’m currently learning Python for Data analysis, MYSQL, Power BI, Tableau and I want to learn more and more every single day!
+🌱 I’m currently learning Python for Data analysis, MYSQL, Power BI, Tableau and GitHub.
 
-📫 How to reach me: Linkedin 
+📫 How to reach me: ginnariste@gmail.com 
 
 
 ⚡ Data has a better idea ⚡
